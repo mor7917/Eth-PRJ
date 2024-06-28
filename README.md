@@ -52,5 +52,5 @@ contract MyToken {
 
 @ankitmor
 
-LICENSE
+## LICENSE
 
