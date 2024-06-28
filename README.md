@@ -1,4 +1,4 @@
-# Eth-PRJ 
+# MY TOKEN 
 In this Project we to to create a program with the help of which we can mint or burn the token from the given account And for this we will use Remix Online IDE . And Here we are writing our project in the Solidity Language (.sol) is file extension for this
 
 ## Description 
