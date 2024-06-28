@@ -50,4 +50,7 @@ contract MyToken {
 ```
 ## Author 
 
-Ankit Mor
+@ankitmor
+
+LICENSE
+
