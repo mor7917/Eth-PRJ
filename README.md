@@ -70,3 +70,4 @@ contract MyToken {
 
 ## LICENSE
 
+MIT LICENSE.md
