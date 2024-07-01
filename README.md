@@ -70,3 +70,4 @@ contract MyToken {
 
 ## LICENSE
 
+[LICENSE](https://github.com/mor7917/Eth-PRJ/blob/main/LICENSE)
